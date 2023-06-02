@@ -2,7 +2,7 @@
 {
     public enum enumProfession
     {
-        Manager,
-        Programmer
+        Admin,
+        Client
     }
 }

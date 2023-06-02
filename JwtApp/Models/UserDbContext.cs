@@ -9,7 +9,8 @@ namespace JwtApp.Models
         public UserDbContext(DbContextOptions <UserDbContext> options) 
             : base(options)
         {
-            Database.EnsureCreated();
+           
         }
+        
     }
 }

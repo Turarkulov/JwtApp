@@ -26,8 +26,4 @@
     <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.10.2" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="DataBaseFiles\" />
-  </ItemGroup>
-
 </Project>
